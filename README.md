@@ -1,4 +1,4 @@
-# Progetto_Digital_Forensics
+# Tool forense per miglioramento immagini
 Progetto Digital Forensics - Raffaele Ernesto Cocomero
 
 Tool interattivo per il miglioramento forense delle immagini:
