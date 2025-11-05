@@ -7,11 +7,11 @@ permette di applicare e visualizzare in tempo reale filtri di miglioramento fore
 (Sharpening, Laplaciano, Mediano, Unsharp, Equalizzazione, Bilaterale) e l'annullamento
 di eventuali modifiche attraverso la funzione Undo. <br> 
 È composto da 2 file principali: <br>
-main.py: <br>
+- main.py: <br>
 contiene menù e logica del tool <br>
 
 
-filtri.py: <br>
+- filtri.py: <br>
 contiene le funzioni di applicazione del filtro implementate attraverso la libreria OpenCV (cv2), Separare
 i filtri dalla logica del tool garantisce una maggiore modularità, permettendo in futuro una
 facile gestione, modifica ed eventuale aggiunta di filtri.
