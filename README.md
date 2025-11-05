@@ -6,9 +6,9 @@ Tool interattivo per il miglioramento forense delle immagini:
 permette di applicare e visualizzare in tempo reale filtri di miglioramento forense 
 (Sharpening, Laplaciano, Mediano, Unsharp, Equalizzazione, Bilaterale) e l'annullamento
 di eventuali modifiche attraverso la funzione Undo. <br> 
-È composto da 2 file principali:
+È composto da 2 file principali: <br>
 main.py: <br>
-contiene menù e logica del tool
+contiene menù e logica del tool <br>
 
 
 filtri.py: <br>
