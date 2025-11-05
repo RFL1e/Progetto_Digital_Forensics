@@ -12,7 +12,7 @@ contiene menù e logica del tool <br>
 
 
 filtri.py: <br>
-contiene le funzioni di applicazione del filtro attraverso la libreria OpenCV (cv2), separare
+contiene le funzioni di applicazione del filtro implementate attraverso la libreria OpenCV (cv2), separare
 i filtri dalla logica del tool garantisce una maggiore modularità, permettendo in futuro una
 facile gestione, modifica ed eventuale aggiunta di filtri.
 
