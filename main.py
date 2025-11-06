@@ -21,6 +21,11 @@ def visualizza():
         if imgf is not None:
             cv2.imshow('img', imgf)
         lock.release()
+        
+        if cv2.waitKey(30) & 0xFF == ord('q'):
+            running = False
+            break
+
     cv2.destroyAllWindows()
 
 #pulizia del terminale
